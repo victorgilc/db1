@@ -1,0 +1,7 @@
+model\PasswordDeductionsModel.class
+service\ValidatorService.class
+enums\CharTypesEnum.class
+util\Constantes.class
+bol\PasswordBOL.class
+model\PasswordAdditionsModel.class
+model\PasswordModel.class

@@ -1,0 +1,35 @@
+@font-face {
+    font-family: muktaBold;
+    src: url(fonts/Mukta-Bold.ttf);
+}
+
+@font-face {
+    font-family: muktaRegular;
+    src: url(fonts/Mukta-Regular.ttf);
+}
+
+.pad { margin:10px; padding:10px; }
+
+.percentageBox
+{
+	color: white; background-color: #CCCCCC;
+}
+
+.weakStrengthBox
+{
+	color: white; background-color: red;
+}
+
+.strongStrengthBox
+{
+	color: white; background-color: red;
+}
+
+.myTitle
+{
+	font-family: muktaBold; color: #CCCCCC; font-size: 14pt;
+}
+
+.has-error{
+      border: 1px solid red!important;
+}
